@@ -115,5 +115,3 @@ def draw_bear_face():
 
 # Llamar a la función para dibujar la cara del osito
 draw_bear_face()
-
-##
